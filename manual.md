@@ -9,3 +9,6 @@
 ## 2. Ветки
 * git branch - выводит список веток
 * git branch branch_name - создает новую ветку с именем branch_name
+
+## 3. Слияние двух веток
+* git merge existing_branch_name - Команда объединит указанную ветку с основной.
